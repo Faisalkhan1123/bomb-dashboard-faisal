@@ -1,0 +1,304 @@
+.card {
+  background: #0c1125 !important;
+  border-radius: 4px;
+}
+
+.card-23 {
+  display: flex;
+}
+
+.card-23-a {
+  width: 1180px;
+  background: #0c1125 !important;
+  border-radius: 4px;
+  height: 240px;
+}
+
+.latest {
+  color: white;
+  font-size: 22px;
+  margin-left: 20px;
+}
+
+.card-23-b {
+  width: 500px;
+  background: #0c1125 !important;
+  border-radius: 4px;
+  margin-left: 20px;
+  height: 240px;
+}
+
+.card-heading {
+  font-family: Nunito;
+  font-style: Regular;
+  font-size: 22px;
+  line-height: 30px;
+  color: white;
+  text-align: center;
+}
+
+.card-content {
+  display: flex;
+  position: relative;
+}
+
+.card-content-2 {
+  display: flex;
+  right: 3%;
+  position: absolute;
+  margin-top: 6px;
+}
+
+.card-content-child1 {
+  display: flex;
+}
+
+.card-content-child-a {
+  font-size: 10px;
+  color: white;
+}
+
+.card-content-hr-1 {
+  width: 170px;
+  margin-left: 22%;
+}
+
+.card-content-hr-2 {
+  width: 220px;
+}
+
+.card-4 {
+  font-size: 22px;
+  color: white;
+}
+
+.card-content-4 {
+  margin-top: 5px;
+  color: white;
+  font-size: 14px;
+}
+
+.card-content-child-a-4 {
+  font-size: 12px;
+  color: white;
+}
+
+.card-content-child-a-4-b {
+  font-size: 12px;
+  color: white;
+}
+
+.bomb-btcb {
+  font-size: 22px;
+  color: white;
+}
+
+.bomb-btcb-content {
+  margin-top: 14px;
+  margin-left: 20px;
+  display: flex;
+}
+
+.recommended-back {
+  background-color: green;
+  width: 88px;
+  height: 22px;
+  padding: 1px;
+  margin-left: 10px;
+}
+
+.recommended {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  color: white;
+  margin-left: 6px;
+  margin-top: 4px;
+}
+
+.deposit {
+  color: white;
+  width: 64px;
+  height: 18px;
+  font-size: 15px;
+  border: 1px solid white;
+  border-radius: 20px;
+  padding: 4px;
+  text-align: center;
+  margin-right: 6px;
+}
+
+.withdraw {
+  color: white;
+  width: 74px;
+  height: 18px;
+  font-size: 15px;
+  border: 1px solid white;
+  border-radius: 20px;
+  padding: 4px;
+  text-align: center;
+  margin-right: 6px;
+}
+
+.claim-rewards {
+  color: white;
+  width: 98px;
+  height: 18px;
+  font-size: 15px;
+  border: 1px solid white;
+  border-radius: 20px;
+  padding: 4px;
+  text-align: center;
+  margin-right: 6px;
+}
+
+.card-3 {
+  margin-left: 50px;
+}
+
+.card-heading-3 {
+  color: white;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+}
+
+.card-content-3 {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  color: white;
+  margin-top: 3px;
+}
+
+.card-2-3 {
+  margin-left: 25px;
+  margin-top: 30px;
+  display: flex;
+}
+
+.card-current {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 25px;
+  color: #ffffff;
+}
+
+.card-current-bbond {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 25px;
+  color: #ffffff;
+  margin-top: 10px;
+}
+
+.card-current-redeem {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 30px;
+  line-height: 25px;
+  color: #ffffff;
+  margin-top: 10px;
+  margin-left: 270px;
+}
+
+.card-current-2 {
+  font-family: 'Nunito';
+  font-size: 17px;
+  line-height: 25px;
+  color: #ffffff;
+  margin-left: 270px;
+}
+
+.card-current-3 {
+  margin-left: 370px;
+  margin-top: -10px;
+  display: flex;
+}
+
+.card-current-3-1 {
+  font-family: 'Nunito';
+  color: white;
+  font-size: 17px;
+  line-height: 25px;
+}
+
+.card-current-3-2 {
+  margin-left: 400px;
+}
+
+.card-hr-3 {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-right: 10px;
+  width: 620px;
+}
+
+.purchase-1 {
+  color: white;
+  width: 64px;
+  height: 18px;
+  font-size: 15px;
+  border: 1px solid white;
+  border-radius: 20px;
+  padding: 4px;
+  text-align: center;
+  margin-top: 25px;
+}
+
+.redeem-1 {
+  color: white;
+  width: 64px;
+  height: 18px;
+  font-size: 15px;
+  border: 1px solid white;
+  border-radius: 20px;
+  padding: 4px;
+  text-align: center;
+  margin-right: 26px;
+}
+
+.invest {
+  background-color: #00ade8;
+  color: white;
+  border: 0px;
+  width: 1190px;
+  height: 28px;
+  margin-left: -20px;
+  margin-top: -80px;
+  padding-top: -20px;
+  font-size: 20px;
+}
+
+.button-b {
+  display: flex;
+}
+
+.chat {
+  background-color: rgba(255, 255, 255, 0.5);
+  color: white;
+  border: 0px;
+  width: 640px;
+  height: 28px;
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+.read {
+  background-color: rgba(255, 255, 255, 0.5);
+  color: white;
+  border: 0px;
+  width: 640px;
+  height: 28px;
+  font-size: 20px;
+  margin-top: 10px;
+  margin-left: -50px;
+}
